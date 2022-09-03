@@ -22,10 +22,10 @@
 "love_date": "2020-11-23",
 # 天和数据apikey
 "tianhe1_key": "8682910bbd31209306b96de4591a5549",
-# 天和数据apikey
-"tianhe2_key": "fa7159a2a2183788a02ca702510d7b16",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
 "note_ch": "",
 # 金句英文
 "note_en": ""
+# 天和数据apikey
+"tianhe2_key": "fa7159a2a2183788a02ca702510d7b16",
 }
